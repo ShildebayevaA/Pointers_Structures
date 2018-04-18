@@ -1,0 +1,44 @@
+﻿  Srce_Struct_1804.cpp
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(7): error C3861: rand: идентификатор не найден
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(14): error C3861: rand: идентификатор не найден
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(18): error C3861: rand: идентификатор не найден
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(20): error C3861: rand: идентификатор не найден
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(25): error C2065: Hockey: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(25): error C2065: DetroitRedWings: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(25): error C2062: тип "int" не требуется
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(26): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(26): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(34): error C2065: Tovar: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(34): error C2065: Racks: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(34): error C2062: тип "int" не требуется
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(35): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(35): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(44): error C2065: Production: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(44): error C2065: Magazines: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(44): error C2062: тип "int" не требуется
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(45): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(45): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(54): error C2065: Employee: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(54): error C2065: RAMS: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(54): error C2062: тип "int" не требуется
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(55): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(55): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(64): error C2065: Student: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(64): error C2065: progers: необъявленный идентификатор
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(64): error C2062: тип "int" не требуется
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(65): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(65): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  ConsApp_1804.cpp
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(13): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(24): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(42): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(78): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(80): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(118): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(120): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(140): error C2664: "void print_Empoyee(Employee *,int)": невозможно преобразовать аргумент 1 из "Production *" в "Employee *"
+  e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(140): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(159): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(197): warning C4302: приведение типов: усечение из "void *" к "char"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\consapp_1804.cpp(99): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  Создание кода...
