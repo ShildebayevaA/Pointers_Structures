@@ -1,0 +1,5 @@
+﻿  Srce_Struct_1804.cpp
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(35): warning C4477: "printf": в строке форматирования "%S" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "int"
+e:\1 january 2018\c++\structs\structure_1804\consapp_1804\consapp_1804\srce_struct_1804.cpp(35): warning C4313: printf: конфликт "%S" в строке формата с аргументом 1 типа "int"
+  ConsApp_1804.vcxproj -> E:\1 January 2018\C++\STRUCTS\Structure_1804\ConsApp_1804\x64\Debug\ConsApp_1804.exe
